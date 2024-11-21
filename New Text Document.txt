@@ -1,4 +1,9 @@
 New branch features
 
+<<<<<<< HEAD
 Added extra features
 
+=======
+
+newbranch extra features
+>>>>>>> newbranch
